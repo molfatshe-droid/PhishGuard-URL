@@ -5,7 +5,7 @@
 The dataset used in this paper is the **University of New Brunswick (UNB)
 Canadian Institute for Cybersecurity URL Dataset**.
 
-- **Download URL:** [https://www.unb.ca/cic/datasets/](https://www.unb.ca/cic/datasets/url-2016.html)
+- **Download URL:** [[https://www.unb.ca/cic/datasets/](https://www.unb.ca/cic/datasets/url-2016.html)](https://cicresearch.ca/CICDataset/ISCX-URL-2016/)
 - **Citation:** Mamun et al. (2016), "Detecting Malicious URLs Using Lexical Analysis"
 - **Records:** 14,823
 - **Features:** 77 (pre-engineered, numeric, no missing values)
@@ -13,7 +13,7 @@ Canadian Institute for Cybersecurity URL Dataset**.
 
 ## Steps
 
-1. Go to [https://www.unb.ca/cic/datasets/](https://www.unb.ca/cic/datasets/url-2016.html)
+1. Go to [[https://www.unb.ca/cic/datasets/](https://www.unb.ca/cic/datasets/url-2016.html)](https://cicresearch.ca/CICDataset/ISCX-URL-2016/)
 2. Find the **URL dataset** section
 3. Download the CSV file
 4. Rename or copy it to this folder as: `data/url_data.csv`
