@@ -15,8 +15,9 @@ Canadian Institute for Cybersecurity URL Dataset**.
 
 1. Go to [(https://www.unb.ca/cic/datasets/url-2016.html)](https://cicresearch.ca/CICDataset/ISCX-URL-2016/)
 2. Find the **URL dataset** section
-3. Download the CSV file
-4. Rename or copy it to this folder as: `data/url_data.csv`
+3. Fill in the registration form first
+4. Download the Phishing.csv file
+5. Rename or copy it to this folder as: `data/url_data.csv`
 
 ## Expected CSV format
 
